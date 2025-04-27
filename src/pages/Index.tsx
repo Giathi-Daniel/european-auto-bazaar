@@ -12,7 +12,7 @@ const SAMPLE_CARS = [
     year: 2020,
     price: 4500000,
     mileage: 45000,
-    imageUrl: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b",
+    imageUrl: "https://hips.hearstapps.com/hmg-prod/images/2020-bmw-x5-mmp-1-1579125510.jpg?crop=0.940xw:0.945xh;0.0603xw,0.0552xh&resize=1200",
     whatsappNumber: "254700000000"
   },
   {
@@ -22,7 +22,7 @@ const SAMPLE_CARS = [
     year: 2019,
     price: 3800000,
     mileage: 52000,
-    imageUrl: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+    imageUrl: "https://media.drive.com.au/obj/tx_q:50,rs:auto:1200:675:1/driveau/upload/cms/uploads/rsTx4FhcSIQVYOcS6qwf",
     whatsappNumber: "254700000000"
   },
   {
@@ -32,7 +32,7 @@ const SAMPLE_CARS = [
     year: 2021,
     price: 6200000,
     mileage: 28000,
-    imageUrl: "https://images.unsplash.com/photo-1531297484001-80022131f5a1",
+    imageUrl: "https://hips.hearstapps.com/hmg-prod/images/2021-audi-q7-mmp-1-1591218923.jpg?crop=0.798xw:0.673xh;0.0417xw,0.327xh&resize=1200",
     whatsappNumber: "254700000000"
   }
 ];
